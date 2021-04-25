@@ -1,0 +1,115 @@
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe.config
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.xml
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.Robotics.Lego.xml
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.baml
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.g.cs
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\App.g.cs
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL_MarkupCompile.cache
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.g.resources
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.Properties.Resources.resources
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csproj.GenerateResource.Cache
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\Daryjusz\Documents\Visual Studio 2012\Projects\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe.config
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.dll
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.dll
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.xml
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.Robotics.Lego.xml
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.xml
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.pdb
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.xml
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.baml
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.g.cs
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\App.g.cs
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL_MarkupCompile.cache
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.g.resources
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csproj.GenerateResource.Cache
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe.config
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.dll
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.dll
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.xml
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.Robotics.Lego.xml
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.xml
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.pdb
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.xml
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.baml
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.g.cs
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\App.g.cs
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL_MarkupCompile.cache
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.g.resources
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.Properties.Resources.resources
+C:\Users\Daro\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csproj.GenerateResource.Cache
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe.config
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.exe
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.pdb
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.pdb
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.dll
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.xml
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.Robotics.Lego.xml
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.xml
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.pdb
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.xml
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csprojResolveAssemblyReference.cache
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.baml
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.g.cs
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\App.g.cs
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL_MarkupCompile.cache
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.g.resources
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.Properties.Resources.resources
+D:\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csproj.GenerateResource.Cache
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe.config
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.dll
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.dll
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.xml
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.Robotics.Lego.xml
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.xml
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.pdb
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.xml
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.baml
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.g.cs
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\App.g.cs
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL_MarkupCompile.cache
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.g.resources
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.Properties.Resources.resources
+C:\Users\DARYJUSZ\Desktop\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csproj.GenerateResource.Cache
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe.config
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.exe
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\NXT_CONTROLL_FINAL.pdb
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.dll
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.dll
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.xml
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\AForge.Robotics.Lego.xml
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\Microsoft.Kinect.xml
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.pdb
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\SlimDX.xml
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csprojResolveAssemblyReference.cache
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.baml
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\MainWindow.g.cs
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\App.g.cs
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL_MarkupCompile.cache
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.g.resources
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.Properties.Resources.resources
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\obj\x86\Release\NXT_CONTROLL_FINAL.csproj.GenerateResource.Cache
+C:\Users\DARYJUSZ\Desktop\Pierdy\NXT_CONTROLL\NXT_CONTROLL_FINAL\bin\x86\Release\alglibnet2.dll
